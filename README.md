@@ -12,12 +12,12 @@
 - 2012.09 - 2018.08: Business Administration at University of Economic HCM with 8.1/10 points
 - 2017.09 – 2020.11: Information Technology at Dong Nai Technical College with 3.65/4 points
 - MERN Fullstack at CodersX
-- Courses: ReactJS, React Native, NextJS, HTML, CSS, ... in Udemy, Youtube, ...
+- Courses: ReactJS, NextJS, HTML, CSS, ... in Udemy, Youtube, ...
 
 ## Skills<img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613575942/skill_segyso.svg">
 
 - Languages: Javascript, Typescript, HTML5, CSS3, SCSS. A little bit about PHP.
-- Framework & Platform: ReactJS, React Native, NextJS. A little bit about NodeJS(ExpressJS), GraphQL, RESTApi, Bootstrap.
+- Framework & Platform: ReactJS, NextJS. A little bit about NodeJS(ExpressJS), GraphQL, RESTApi, Bootstrap.
 - Database: A little bit about SQL, MySQL, MongoDB.
 - Version Control: Git, GitLab.
 - Foreign language: English (Reading & Writing)
