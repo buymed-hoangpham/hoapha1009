@@ -24,11 +24,11 @@
 
 ## Projects
 
-- Crow clothing: https://github.com/hoapha1009/crown-clothing
-- Crypo site: https://github.com/hoapha1009/crypto-site
-- Clone site: https://github.com/hoapha1009/ProjectWebsite
-- Management Wesite: https://github.com/hoapha1009/Mangement-Center-Website-2020-
-- Shoppe clone UI: https://github.com/hoapha1009/ShopeeUI
+- Crow clothing: https://github.com/hoapha1009/crown-clothing (ReactJS, Firebase, Redux, Redux-Saga, Scss, ...)
+- Crypo site: https://github.com/hoapha1009/crypto-site (NextJS, Typescript, Module CSS, ...)
+- Lavish site: https://github.com/hoapha1009/ProjectWebsite (ReactJS, Redux, React-Hook-Form,...)
+- Management Wesite: https://github.com/hoapha1009/Mangement-Center-Website-2020- (NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...)
+- Shoppe clone UI: https://github.com/hoapha1009/ShopeeUI (HTML5, CSS3, Javascript, ...)
 
 ## Contact me via:
 <ul>
