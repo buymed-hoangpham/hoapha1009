@@ -27,7 +27,7 @@
 - React:
 + Source: https://github.com/hoapha1009/crown-clothing
 + Technologies: ReactJS, Firebase, Redux, Redux-Saga, Scss, ...
-+ Link: https://vercel.com/hoapha1009/crown-clothing
++ Link: https://crown-clothing-puce.vercel.app/
 
 - NextJS: World ranks site: 
 + Source: https://github.com/hoapha1009/world-ranks
@@ -37,7 +37,7 @@
 - React: Lavish site: 
 + Source: https://github.com/hoapha1009/ProjectWebsite
 + Technologies: ReactJS, Redux, React-Hook-Form, MarialUI...
-+ Link: https://github.com/hoapha1009/ProjectWebsite
++ Link: https://project-website-one.vercel.app/
 
 - NodeJS: Management Wesite: 
 + Source: https://github.com/hoapha1009/Mangement-Center-Website-2020-
@@ -56,6 +56,9 @@
 
 ## Contact me via:
 <ul>
+<li>
+Gmail: hoapha1009@gmail.com
+</li>
 <li>
 [Facebook]('https://www.facebook.com/hoangpham2018/')
 </li>
