@@ -24,11 +24,35 @@
 
 ## Projects
 
-- Crow clothing: https://github.com/hoapha1009/crown-clothing (ReactJS, Firebase, Redux, Redux-Saga, Scss, ...)
-- Crypo site: https://github.com/hoapha1009/crypto-site (NextJS, Typescript, Module CSS, ...)
-- Lavish site: https://github.com/hoapha1009/ProjectWebsite (ReactJS, Redux, React-Hook-Form, MarialUI...)
-- Management Wesite: https://github.com/hoapha1009/Mangement-Center-Website-2020- (NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...)
-- Shoppe clone UI: https://github.com/hoapha1009/ShopeeUI (HTML5, CSS3, Javascript, ...)
+- React:
++ Source: https://github.com/hoapha1009/crown-clothing
++ Technologies: ReactJS, Firebase, Redux, Redux-Saga, Scss, ...
++ Link: https://vercel.com/hoapha1009/crown-clothing
+
+- NextJS: World ranks site: 
++ Source: https://github.com/hoapha1009/world-ranks
++ Technologies: NextJS, Typescript, Module CSS, ...
++ Link: https://world-ranks-psi.vercel.app/
+
+- React: Lavish site: 
++ Source: https://github.com/hoapha1009/ProjectWebsite
++ Technologies: ReactJS, Redux, React-Hook-Form, MarialUI...
++ Link: https://github.com/hoapha1009/ProjectWebsite
+
+- NodeJS: Management Wesite: 
++ Source: https://github.com/hoapha1009/Mangement-Center-Website-2020-
++ Technologies: NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...
++ Link: https://pmhct17cd31-website-management.herokuapp.com/auth/login (Account: admin, Password: 123123)
+
+- Cut PSD to HTML, CSS, JS:
++ Source:  https://cut-psd.vercel.app/
++ Technologies: HTML5, CSS3, SASS, SCSS, Javascript, Pug, Gulp, ...
++ Link: https://cut-psd.vercel.app/
+
+- Cut PSD: Shoppe clone UI:
++ Source:  https://github.com/hoapha1009/ShopeeUI
++ Technologies: HTML5, CSS3, Javascript, ...
++ Link: https://css-project-coderx-2020.web.app/
 
 ## Contact me via:
 <ul>
