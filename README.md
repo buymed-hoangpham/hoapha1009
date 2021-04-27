@@ -64,7 +64,7 @@
 + Technologies: HTML5, CSS3, Javascript, ...
 + Link: https://css-project-coderx-2020.web.app/
 
-## Contact me via:
+## Contact me via:<a href="https://github.com/hoapha1009"><img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1619494293/contact_lfgpqe.svg"></a>
 <ul>
 <li>
 Gmail: hoapha1009@gmail.com
