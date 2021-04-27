@@ -12,34 +12,44 @@
 - 2012.09 - 2018.08: Business Administration at University of Economic HCM with 8.1/10 points
 - 2017.09 – 2020.11: Information Technology at Dong Nai Technical College with 3.65/4 points
 - MERN Fullstack at CodersX
-- Courses: ReactJS, NextJS, HTML, CSS, ... in Udemy, Youtube, ...
+- Courses: ReactJS, NextJS, Typescript, HTML, CSS, ... in Udemy, Youtube, ...
 
 ## Skills<img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613575942/skill_segyso.svg">
 
 - Languages: Javascript, Typescript, HTML5, CSS3, SCSS. A little bit about PHP.
-- Framework & Platform: ReactJS, NextJS. A little bit about NodeJS(ExpressJS), GraphQL, RESTApi, Bootstrap.
+- Framework & Platform: ReactJS, NextJS. A little bit about NodeJS(ExpressJS), RESTApi, Bootstrap, Material UI.
 - Database: A little bit about SQL, MySQL, MongoDB.
-- Version Control: Git, GitLab.
+- Version Control: Git, Github, GitLab.
 - Foreign language: English (Reading & Writing)
 
 ## Projects
 
-- React:
+- Crown Shop:
 + Source: https://github.com/hoapha1009/crown-clothing
 + Technologies: ReactJS, Firebase, Redux, Redux-Saga, Scss, ...
 + Link: https://crown-clothing-puce.vercel.app/
 
-- NextJS: World ranks site: 
+- Hafa Shop(Clone Tiki):
++ Source: https://github.com/hoapha1009/shop-cart
++ Technologies:  ReactJS, Typescript, Redux Tool-kit, Material UI, React-Hook-Form ...
++ Link: https://shop-mini.vercel.app/
+
+- World ranking: 
 + Source: https://github.com/hoapha1009/world-ranks
 + Technologies: NextJS, Typescript, Module CSS, ...
 + Link: https://world-ranks-psi.vercel.app/
 
-- React: Lavish site: 
+- Next Blog: 
++ Source: https://github.com/hoapha1009/nextjs-blog
++ Technologies: NextJS, Module CSS, ...
++ Link: https://nextjs-blog-sigma-roan.vercel.app/
+
+- Lavish: 
 + Source: https://github.com/hoapha1009/ProjectWebsite
 + Technologies: ReactJS, Redux, React-Hook-Form, MarialUI...
 + Link: https://project-website-one.vercel.app/
 
-- NodeJS: Management Wesite: 
+- Management Wesite: 
 + Source: https://github.com/hoapha1009/Mangement-Center-Website-2020-
 + Technologies: NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...
 + Link: https://pmhct17cd31-website-management.herokuapp.com/auth/login (Account: admin, Password: 123123)
