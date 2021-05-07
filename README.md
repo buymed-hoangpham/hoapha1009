@@ -34,6 +34,12 @@
 + Technologies:  ReactJS, Typescript, Redux Tool-kit, Material UI, React-Hook-Form ...
 + Link: https://shop-mini.vercel.app/
 
+- MERN Blog(MongoDB, ExpressJS, ReactJS, NodeJS):
++ Source FE: https://github.com/hoapha1009/mern-blog
++ Source BE: https://github.com/hoapha1009/mern-blog-bee
++ Technologies:  ReactJS, Material-UI, Redux, Redux-Saga, ExpressJS, MongoDB, NodeJS...
++ Link: https://mern-blog.vercel.app/
+
 - World ranking: 
 + Source: https://github.com/hoapha1009/world-ranks
 + Technologies: NextJS, Typescript, Module CSS, ...
