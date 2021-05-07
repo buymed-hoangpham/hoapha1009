@@ -24,48 +24,48 @@
 
 ## Projects
 
-- Crown Shop:
+### Crown Shop:
 + Source: https://github.com/hoapha1009/crown-clothing
 + Technologies: ReactJS, Firebase, Redux, Redux-Saga, Scss, ...
 + Link: https://crown-clothing-puce.vercel.app/
 
-- Hafa Shop(Clone Tiki):
+### Hafa Shop(Clone Tiki):
 + Source: https://github.com/hoapha1009/shop-cart
 + Technologies:  ReactJS, Typescript, Redux Tool-kit, Material UI, React-Hook-Form ...
 + Link: https://shop-mini.vercel.app/
 
-- MERN Blog(MongoDB, ExpressJS, ReactJS, NodeJS):
+### MERN Blog(MongoDB, ExpressJS, ReactJS, NodeJS):
 + Source FE: https://github.com/hoapha1009/mern-blog
 + Source BE: https://github.com/hoapha1009/mern-blog-bee
 + Technologies:  ReactJS, Material-UI, Redux, Redux-Saga, ExpressJS, MongoDB, NodeJS...
 + Link: https://mern-blog.vercel.app/
 
-- World ranking: 
+### World ranking: 
 + Source: https://github.com/hoapha1009/world-ranks
 + Technologies: NextJS, Typescript, Module CSS, ...
 + Link: https://world-ranks-psi.vercel.app/
 
-- Next Blog: 
+### Next Blog: 
 + Source: https://github.com/hoapha1009/nextjs-blog
 + Technologies: NextJS, Module CSS, ...
 + Link: https://nextjs-blog-sigma-roan.vercel.app/
 
-- Lavish: 
+### Lavish: 
 + Source: https://github.com/hoapha1009/ProjectWebsite
 + Technologies: ReactJS, Redux, React-Hook-Form, MarialUI...
 + Link: https://project-website-one.vercel.app/
 
-- Management Wesite: 
+### Management Wesite: 
 + Source: https://github.com/hoapha1009/Mangement-Center-Website-2020-
 + Technologies: NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...
 + Link: https://pmhct17cd31-website-management.herokuapp.com/auth/login (Account: admin, Password: 123123)
 
-- Cut PSD to HTML, CSS, JS:
+### Cut PSD to HTML, CSS, JS:
 + Source:  https://cut-psd.vercel.app/
 + Technologies: HTML5, CSS3, SASS, SCSS, Javascript, Pug, Gulp, ...
 + Link: https://cut-psd.vercel.app/
 
-- Cut PSD: Shoppe clone UI:
+### Cut PSD: Shoppe clone UI:
 + Source:  https://github.com/hoapha1009/ShopeeUI
 + Technologies: HTML5, CSS3, Javascript, ...
 + Link: https://css-project-coderx-2020.web.app/
