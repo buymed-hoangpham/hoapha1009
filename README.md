@@ -17,9 +17,9 @@
 ## Skills<img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613575942/skill_segyso.svg">
 
 - Languages: Javascript, Typescript, HTML5, CSS3, SCSS. A little bit about PHP.
-- Framework & Platform: ReactJS, NextJS. A little bit about NodeJS(ExpressJS), RESTApi, Bootstrap, Material UI.
+- Framework & Platform: ReactJS, NextJS, TailwindCSS. A little bit about NodeJS(ExpressJS), RESTApi, Bootstrap, Material UI.
 - Database: A little bit about SQL, MySQL, MongoDB.
-- Version Control: Git, Github, GitLab.
+- Version Control: Git, Github, GitLab, Jira.
 - Foreign language: English (Reading & Writing)
 
 ## Projects
