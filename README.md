@@ -24,6 +24,12 @@
 
 ## Projects
 
+
+### [AirBnB Clone]('https://stay-connect.vercel.app/'):
++ Source: https://github.com/hoapha1009/airbnb_clone
++ Technologies: NextJS 13, NextAuth, Prisma, MongoDB, TailwindCSS, Typescript ...
++ Link: https://3d-portfolio-neon.vercel.app/
+
 ### [3D Portfolio]('https://3d-portfolio-neon.vercel.app/'):
 + Source: https://github.com/hoapha1009/3d_portfolio
 + Technologies: ReactJS, React ThreeJS, TailwindCSS, ViteJS, Typescript, ...
@@ -41,6 +47,9 @@
 
 ## Contact me via:<a href="https://github.com/hoapha1009"><img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1619494293/contact_lfgpqe.svg"></a>
 <ul>
+<li>
+Web: https://www.hafa.website/
+</li>
 <li>
 Gmail: hafaisworking@gmail.com
 </li>
