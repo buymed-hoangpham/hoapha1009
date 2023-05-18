@@ -28,7 +28,7 @@
 ### [AirBnB Clone]('https://stay-connect.vercel.app/'):
 + Source: https://github.com/hoapha1009/airbnb_clone
 + Technologies: NextJS 13, NextAuth, Prisma, MongoDB, TailwindCSS, Typescript ...
-+ Link: https://3d-portfolio-neon.vercel.app/
++ Link: https://stay-connect.vercel.app/
 
 ### [3D Portfolio]('https://3d-portfolio-neon.vercel.app/'):
 + Source: https://github.com/hoapha1009/3d_portfolio
